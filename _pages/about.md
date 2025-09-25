@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "mjw"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -45,8 +45,9 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - now*, Ph.D, UCSC 🇺🇸, Santa Cruz, USA. 
+- *2021.09 - 2024.06*, M.Sc, Hangzhou Dianzi University 🇨🇳, Hangzhou, China.
+- *2016.09 - 2020.06*, B.Sc, Shandong University of Science and Technology 🇨🇳, Jinan, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
