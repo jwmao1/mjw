@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👤 About Me
+# 👤 About Me {#about-me}
 I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). Before that, I received my Master’s degree from Hangzhou Dianzi University, supervised by [Prof. Xuesong Yin](https://dblp.org/pid/34/2387.html). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
 
-# 🔥 News
+# 🔥 News {#news}
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications {#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,18 +40,18 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards {#honors}
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 📖 Educations {#educations}
 - *2025.09 - now*, Ph.D, UCSC 🇺🇸, Santa Cruz, USA. 
 - *2021.09 - 2024.06*, M.Sc, Hangzhou Dianzi University 🇨🇳, Hangzhou, China.
 - *2016.09 - 2020.06*, B.Sc, Shandong University of Science and Technology 🇨🇳, Jinan, China. 
 
-# 💬 Invited Talks
+# 💬 Invited Talks {#talks}
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Internships {#interships}
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
