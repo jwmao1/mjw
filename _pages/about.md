@@ -67,24 +67,23 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 # 💻 Internships
 
-<div class='exp-box'> <div class='exp-box-image'><div><img src='images/pku.png' alt="sym" width="10%"></div></div>
-<div class='exp-box-text' markdown="1">
-
-[Peking University](https://www.pku.edu.cn/), China
-
-**Research Assistant** @ [Hao Tang](https://ha0tang.github.io/)
-
+<div class="exp-box">
+  <div class="exp-box-image">
+    <img src="images/pku.png" alt="sym">
+  </div>
+  <div class="exp-box-text" markdown="1">
+    [Peking University](https://www.pku.edu.cn/), China  
+    **Research Assistant** @ [Hao Tang](https://ha0tang.github.io/)
+  </div>
 </div>
+
+<div class="exp-box">
+  <div class="exp-box-image">
+    <img src="images/ucsc.png" alt="sym">
+  </div>
+  <div class="exp-box-text" markdown="1">
+    [UCSC](https://www.ucsc.edu/), USA  
+    **Research Intern** @ [VLAA](https://ucsc-vlaa.github.io/)
+  </div>
 </div>
 
-
-<div class='exp-box'> <div class='exp-box-image'><div><img src='images/ucsc.png' alt="sym" width="10%"></div></div>
-<div class='exp-box-text' markdown="1">
-
-[UCSC](https://www.ucsc.edu/), USA
-
-**Research Intern** @ [VLAA](https://ucsc-vlaa.github.io/)
-
-
-</div>
-</div>
