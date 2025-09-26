@@ -67,7 +67,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 # 💻 Internships
 
-<div class='exp-box'> <div class='exp-box-image'><div><img src='images/pku.png' alt="sym" width="100%"></div></div>
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/pku.png' alt="sym" width="10%"></div></div>
 <div class='exp-box-text' markdown="1">
 
 [Peking University](https://www.pku.edu.cn/), China
@@ -78,7 +78,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 </div>
 
 
-<div class='exp-box'> <div class='exp-box-image'><div><img src='images/ucsc.png' alt="sym" width="100%"></div></div>
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/ucsc.png' alt="sym" width="10%"></div></div>
 <div class='exp-box-text' markdown="1">
 
 [UCSC](https://www.ucsc.edu/), USA
