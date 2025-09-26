@@ -74,9 +74,11 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 </div>
 
 # 🎖 Honors and Awards {#honors}
--
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-<!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+First-Class Academic Scholarship of Hangzhou Dianzi University
+National Scholarship of China
+Merit Graduated Student of Hangzhou Dianzi University 
+Merit Graduated Student of Zhejiang Province
 
 # 📖 Educations
 - *2025.09 - now*, Ph.D, UCSC 🇺🇸, Santa Cruz, USA. 
