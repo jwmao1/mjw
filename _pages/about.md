@@ -118,11 +118,9 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
   *2024, 2025*
 
-  <h2>Research Experience</h2>
-
 <div class="exp-box">
   <div class="exp-box-image">
-    <img src="images/neu.png" alt="Northeastern University" width="80">
+    <img src="images/pku.png" alt="Northeastern University" width="80">
   </div>
   <div class="exp-box-text" markdown="1">
     [Northeastern University](https://www.northeastern.edu/), US  
@@ -133,7 +131,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 <div class="exp-box">
   <div class="exp-box-image">
-    <img src="images/phigent.png" alt="PhiGent Robotics" width="80">
+    <img src="images/pku.png" alt="PhiGent Robotics" width="80">
   </div>
   <div class="exp-box-text" markdown="1">
     [PhiGent Robotics](https://www.phigent.ai/), China  
