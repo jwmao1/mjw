@@ -34,7 +34,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**  
+**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**  
 **Jiawei Mao**, Yuhan Wang, Yucheng Tang, Daguang Xu, Kang Wang, Yang Yang, Zongwei Zhou, Yuyin Zhou
 
 <!-- 图标按钮 -->
