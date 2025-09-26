@@ -92,7 +92,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 <div class='exp-box'> 
   <div class='exp-box-image'>
-    <img src='images/pku.png' alt="pku logo" width="20%">
+    <img src='images/pku.png' alt="pku logo" width="100%">
   </div>
   <div class='exp-box-text' markdown="1">
 
@@ -108,7 +108,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 <div class='exp-box'> 
   <div class='exp-box-image'>
-    <img src='images/ucsc.png' alt="ucsc logo" width="20%">
+    <img src='images/ucsc.png' alt="ucsc logo" width="100%">
   </div>
   <div class='exp-box-text' markdown="1">
 
