@@ -48,7 +48,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 - *2021.09 - 2024.06*, M.Sc, Hangzhou Dianzi University 🇨🇳, Hangzhou, China.
 - *2016.09 - 2020.06*, B.Sc, Shandong University of Science and Technology 🇨🇳, Jinan, China. 
 
-# 💬 Invited Talks {#talks}
+# 💬 Academic Services {#services}
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
