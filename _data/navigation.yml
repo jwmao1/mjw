@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "https://jwmao1.github.io/mjw.io/#about-me"
+    url: "https://jwmao1.github.io/mjw.io/_pages/about/#about-me"
 
   - title: "News"
-    url: "https://jwmao1.github.io/mjw.io/#news"
+    url: "https://jwmao1.github.io/mjw.io/_pages/about/#news"
 
   - title: "Publications"
     url: "/mjw/#publications"
