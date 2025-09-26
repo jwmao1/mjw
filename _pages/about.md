@@ -1,5 +1,5 @@
 ---
-permalink: /mjw/
+permalink: /
 title: "mjw"
 excerpt: ""
 author_profile: true
