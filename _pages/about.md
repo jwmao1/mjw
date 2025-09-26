@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "mjw"
 excerpt: ""
 author_profile: true
