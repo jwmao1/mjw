@@ -77,6 +77,8 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
   **Research Assistant** @ [Hao Tang](https://ha0tang.github.io/)
 
+  *2024*
+
   </div>
 </div>
 
@@ -90,6 +92,8 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
   [UCSC](https://www.ucsc.edu/), USA  
 
   **Research Intern** @ [VLAA](https://ucsc-vlaa.github.io/)
+
+  *2024, 2025*
 
   </div>
 </div>
