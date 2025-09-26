@@ -54,3 +54,25 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 # 💻 Internships {#interships}
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Publications"
+    url: "https://jwmao1.github.io/mjw.io/_pages/about/#publications"
+
+  - title: "Honors and Awards"
+    url: "https://jwmao1.github.io/mjw.io/_pages/about/#honors"
+
+  - title: "Educations"
+    url: "https://jwmao1.github.io/mjw.io/_pages/about/#educations"
+
+  - title: "Academic Services"
+    url: "https://jwmao1.github.io/mjw.io/_pages/about/#service"
+
+  - title: "Internships"
+    url: "https://jwmao1.github.io/mjw.io/_pages/about/#internships"
