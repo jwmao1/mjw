@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "mjw"
+permalink: /pages/about/
+title: "About"
 excerpt: ""
 author_profile: true
 redirect_from: 
