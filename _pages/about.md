@@ -15,6 +15,29 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+.exp-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.exp-box-image {
+  flex: 0 0 100px;
+  text-align: center;
+}
+
+.exp-box-image img {
+  max-width: 80px;
+  height: auto;
+}
+
+.exp-box-text {
+  margin-left: 20px;
+}
+</style>
+
+
 <span class='anchor' id='about-me'></span>
 
 # 👤 About Me {#about-me}
