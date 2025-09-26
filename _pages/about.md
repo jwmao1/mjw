@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -55,16 +55,36 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations {#educations}
+# 📖 Educations
 - *2025.09 - now*, Ph.D, UCSC 🇺🇸, Santa Cruz, USA. 
 - *2021.09 - 2024.06*, M.Sc, Hangzhou Dianzi University 🇨🇳, Hangzhou, China.
 - *2016.09 - 2020.06*, B.Sc, Shandong University of Science and Technology 🇨🇳, Jinan, China. 
 
-# 💬 Academic Services {#service}
+# 💬 Academic Services
 -
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)  -->
 
-# 💻 Internships {#interships}
--
-<!-- - - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
+# 💻 Internships
+
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/pku.png' alt="sym" width="100%"></div></div>
+<div class='exp-box-text' markdown="1">
+
+[Peking University](https://www.pku.edu.cn/), China
+
+**Research Assistant** @ [Hao Tang](https://ha0tang.github.io/)
+
+</div>
+</div>
+
+
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/ucsc.png' alt="sym" width="100%"></div></div>
+<div class='exp-box-text' markdown="1">
+
+[UCSC](https://www.ucsc.edu/), USA
+
+**Research Intern** @ [VLAA](https://ucsc-vlaa.github.io/)
+
+
+</div>
+</div>
