@@ -25,6 +25,26 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 # 📝 Publications {#publications}
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2025</div>
+      <img src='images/poster0.png' alt="paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Rethinking Diffusion for Text-Driven Human Motion Generation**  
+Zichong Meng, Yiming Xie, **Xiaogang Peng**, Zeyu Han, Huaizu Jiang
+
+<!-- 图标按钮 -->
+<a href="https://github.com/xxxx/xxxx" class="btn btn-sm"><i class="fab fa-github"></i> Code</a>
+<a href="https://xxxx.github.io/" class="btn btn-sm"><i class="fas fa-globe"></i> Website</a>
+<a href="https://arxiv.org/abs/2411.16575" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a>
+
+  </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/poster0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
