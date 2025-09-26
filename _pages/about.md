@@ -118,7 +118,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
   *2024, 2025*
 
-<div class="exp-box">
+<!-- <div class="exp-box">
   <div class="exp-box-image">
     <img src="images/pku.png" alt="Northeastern University" width="80">
   </div>
@@ -138,7 +138,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
     **Research Intern** @ Algorithm Research Department  
     2023.03 - 2023.06
   </div>
-</div>
+</div> -->
 
 
   </div>
