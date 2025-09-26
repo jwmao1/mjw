@@ -40,7 +40,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 <!-- 图标按钮 -->
 <!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fab fa-github"></i> Code</a> -->
 <!-- <a href="https://jwmao1.github.io/MedSegFactory_web/" class="btn btn-sm"><i class="fas fa-globe"></i> Website</a> -->
-<a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a>
+<!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a> -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/jwmao1/MedSegFactory)
 [![Stars](https://img.shields.io/github/stars/xxxx/xxxx?style=social)](https://github.com/jwmao1/MedSegFactory/stargazers)
