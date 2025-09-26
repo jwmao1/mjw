@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👤 About Me {#about-me}
+## 👤 About Me {#about-me}
 I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). Before that, I received my Master’s degree from Hangzhou Dianzi University, supervised by [Prof. Xuesong Yin](https://dblp.org/pid/34/2387.html). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
 
 # 🔥 News {#news}
