@@ -1,7 +1,7 @@
 #main links links
-main:
-  - title: "CV"
-    url: "images/CV.pdf"
+# main:
+#   - title: "CV"
+#     url: "images/CV.pdf"
 
 #   - title: "News"
 #     url: "https://jwmao1.github.io/mjw.io/_pages/about/#news"
