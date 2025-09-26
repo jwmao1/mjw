@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About Me"
-    url: "mjw.io/_pages/about/#about-me"
+    url: "/mjw/#about-me"
 
   - title: "News"
-    url: "mjw.io/_pages/about/#news"
+    url: "/mjw/#news"
 
   - title: "Publications"
-    url: "mjw.io/#publications"
+    url: "/mjw/#publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
