@@ -28,36 +28,27 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2025</div>
+      <div class="badge">ICCV 2025</div>
       <img src='images/poster0.png' alt="paper" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Rethinking Diffusion for Text-Driven Human Motion Generation**  
-Zichong Meng, Yiming Xie, **Xiaogang Peng**, Zeyu Han, Huaizu Jiang
+**[MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**  
+**Jiawei Mao**, Yuhan Wang, Yucheng Tang, Daguang Xu, Kang Wang, Yang Yang, Zongwei Zhou, Yuyin Zhou
 
 <!-- 图标按钮 -->
-<a href="https://github.com/xxxx/xxxx" class="btn btn-sm"><i class="fab fa-github"></i> Code</a>
-<a href="https://xxxx.github.io/" class="btn btn-sm"><i class="fas fa-globe"></i> Website</a>
-<a href="https://arxiv.org/abs/2411.16575" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a>
+<!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fab fa-github"></i> Code</a> -->
+<!-- <a href="https://jwmao1.github.io/MedSegFactory_web/" class="btn btn-sm"><i class="fas fa-globe"></i> Website</a> -->
+<a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/jwmao1/MedSegFactory)
+[![Stars](https://img.shields.io/github/stars/xxxx/xxxx?style=social)](https://github.com/jwmao1/MedSegFactory/stargazers)
+[![Website](https://img.shields.io/badge/Website-Demo-blue)](https://jwmao1.github.io/MedSegFactory_web/)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.16575-b31b1b?logo=arxiv)](https://arxiv.org/abs/2504.06897)
 
   </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/poster0.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs](https://arxiv.org/abs/2504.06897)
-
-**Jiawei Mao**, Yuhan Wang, Yucheng Tang, Daguang Xu, Kang Wang, Yang Yang, Zongwei Zhou, Yuyin Zhou
-
-[**Project**](https://jwmao1.github.io/MedSegFactory_web/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards {#honors}
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
