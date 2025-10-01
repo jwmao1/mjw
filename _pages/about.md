@@ -75,12 +75,11 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 # 🎖 Honors and Awards {#honors}
 
-- Third-Class Academic Scholarship of Hangzhou Dianzi University
-
-<!-- - National Scholarship of China
+- First-Class Academic Scholarship of Hangzhou Dianzi University
+- National Scholarship of China
 - Merit Graduated Student of Hangzhou Dianzi University 
 - First-Class Academic Scholarship of Hangzhou Dianzi University
-- Merit Graduated Student of Zhejiang Province -->
+- Merit Graduated Student of Zhejiang Province 
 
 # 📖 Educations
 - *2025.09 - now*, Ph.D, UCSC 🇺🇸, Santa Cruz, USA. 
@@ -120,28 +119,6 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
   **Research Intern** @ [VLAA](https://ucsc-vlaa.github.io/)
 
   *2024, 2025*
-
-<!-- <div class="exp-box">
-  <div class="exp-box-image">
-    <img src="images/pku.png" alt="Northeastern University" width="80">
-  </div>
-  <div class="exp-box-text" markdown="1">
-    [Northeastern University](https://www.northeastern.edu/), US  
-    **Research Intern** @ [Visual Intelligence Lab](https://ivlabneu.github.io/)  
-    2023.06 - 2024.08
-  </div>
-</div>
-
-<div class="exp-box">
-  <div class="exp-box-image">
-    <img src="images/pku.png" alt="PhiGent Robotics" width="80">
-  </div>
-  <div class="exp-box-text" markdown="1">
-    [PhiGent Robotics](https://www.phigent.ai/), China  
-    **Research Intern** @ Algorithm Research Department  
-    2023.03 - 2023.06
-  </div>
-</div> -->
 
 
   </div>
