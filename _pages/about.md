@@ -44,7 +44,7 @@ redirect_from:
 I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). Before that, I received my Master’s degree from Hangzhou Dianzi University, supervised by [Prof. Xuesong Yin](https://dblp.org/pid/34/2387.html). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
 
 # 🔥 News {#news}
-- *2026.01*: &nbsp;🎉🎉 [AllRestorer](https://arxiv.org/abs/2411.10708) is accepted by TPAMI 2026, and [Story-Iter](https://openreview.net/pdf?id=puBVb9vTah) is accepted by ICLR 2026!
+- *2026.01*: &nbsp;🎉🎉 [AllRestorer](https://ieeexplore.ieee.org/document/11367271) is accepted by TPAMI 2026, and [Story-Iter](https://openreview.net/pdf?id=puBVb9vTah) is accepted by ICLR 2026!
 - *2025.07*: &nbsp;🎉🎉 [MedSegFactory](https://openaccess.thecvf.com/content/ICCV2025/papers/Mao_MedSegFactory_Text-Guided_Generation_of_Medical_Image-Mask_Pairs_ICCV_2025_paper.pdf) is accepted by ICCV 2025! 
 
 # 📝 Publications {#publications}
