@@ -41,7 +41,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 About Me {#about-me}
-I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). Before that, I received my Master’s degree from Hangzhou Dianzi University, supervised by [Prof. Xuesong Yin](https://dblp.org/pid/34/2387.html). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
+I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
 
 # 🔥 News {#news}
 - *2026.01*: &nbsp;🎉🎉 [AllRestorer](https://ieeexplore.ieee.org/document/11367271) is accepted by TPAMI 2026, and [Story-Iter](https://openreview.net/forum?id=puBVb9vTah) is accepted by ICLR 2026!
@@ -77,14 +77,10 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 # 🎖 Honors and Awards {#honors}
 
 - National Scholarship of China
-- Merit Graduated Student of Hangzhou Dianzi University 
-- First-Class Academic Scholarship of Hangzhou Dianzi University
 - Merit Graduated Student of Zhejiang Province 
 
 # 📖 Educations
-- *2025.09 - now*, Ph.D, UCSC 🇺🇸, Santa Cruz, USA. 
-- *2021.09 - 2024.06*, M.Sc, Hangzhou Dianzi University 🇨🇳, Hangzhou, China.
-- *2016.09 - 2020.06*, B.Sc, Shandong University of Science and Technology 🇨🇳, Jinan, China. 
+- *2025.09 - now*, Ph.D, UCSC 🇺🇸, Santa Cruz, USA.  
 
 # 💬 Academic Services
 - Journal Reviewer:<br> 
