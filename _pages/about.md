@@ -69,7 +69,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/UCSC-VLAA/story-iter)
 [![Stars](https://img.shields.io/github/stars/UCSC-VLAA/story-iter?style=social)](https://github.com/UCSC-VLAA/story-iter/stargazers)
 [![Website](https://img.shields.io/badge/Website-Demo-blue)](https://jwmao1.github.io/storyiter/)
-[![arXiv](https://img.shields.io/badge/arXiv-2411.16575-b31b1b?logo=arxiv)](https://arxiv.org/abs/2410.06244)
+[![arXiv](https://img.shields.io/badge/arXiv-2410.06244-b31b1b?logo=arxiv)](https://arxiv.org/abs/2410.06244)
 
   </div>
 </div>
@@ -95,7 +95,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/jwmao1/MedSegFactory)
 [![Stars](https://img.shields.io/github/stars/jwmao1/MedSegFactory?style=social)](https://github.com/jwmao1/MedSegFactory/stargazers)
 [![Website](https://img.shields.io/badge/Website-Demo-blue)](https://jwmao1.github.io/MedSegFactory_web/)
-[![arXiv](https://img.shields.io/badge/arXiv-2411.16575-b31b1b?logo=arxiv)](https://arxiv.org/abs/2504.06897)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.06897-b31b1b?logo=arxiv)](https://arxiv.org/abs/2504.06897)
 
   </div>
 </div>
