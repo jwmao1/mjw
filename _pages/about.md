@@ -52,6 +52,32 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">ICLR 2026</div>
+      <img src='images/poster1.png' alt="paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Story-Iter: A Training-free Iterative Paradigm for Long Story Visualization**  
+**Jiawei Mao\***, Xiaoke Huang\*, Yunfei Xie, Yuanqi Chang, Mude Hui, Bingjie Xu, Zeyu Zheng, Zirui Wang, Cihang Xie, Yuyin Zhou
+
+<!-- 图标按钮 -->
+<!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fab fa-github"></i> Code</a> -->
+<!-- <a href="https://jwmao1.github.io/MedSegFactory_web/" class="btn btn-sm"><i class="fas fa-globe"></i> Website</a> -->
+<!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/UCSC-VLAA/story-iter)
+[![Stars](https://img.shields.io/github/stars/jwmao1/story-iter?style=social)](https://github.com/UCSC-VLAA/story-iter/stargazers)
+[![Website](https://img.shields.io/badge/Website-Demo-blue)](https://jwmao1.github.io/storyiter/)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.16575-b31b1b?logo=arxiv)](https://arxiv.org/abs/2410.06244)
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">ICCV 2025</div>
       <img src='images/poster0.png' alt="paper" width="100%">
     </div>
