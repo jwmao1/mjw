@@ -78,7 +78,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
   <div class='paper-box-image'>
     <div>
       <div class="badge">TPAMI 2026</div>
-      <img src='images/paper0.png' alt="paper" width="100%">
+      <img src='images/paper0.jpg' alt="paper" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
