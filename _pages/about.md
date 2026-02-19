@@ -74,6 +74,28 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TPAMI 2026</div>
+      <img src='images/paper0.png' alt="paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**All-in-One Transformer for Image Restoration Under Adverse Weather Degradations**  
+**Jiawei Mao**, Yu Yang, Xuesong Yin, Ling Shao, Hao Tang
+
+<!-- 图标按钮 -->
+<!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fab fa-github"></i> Code</a> -->
+<!-- <a href="https://jwmao1.github.io/MedSegFactory_web/" class="btn btn-sm"><i class="fas fa-globe"></i> Website</a> -->
+<!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a> -->
+
+[![Paper](https://img.shields.io/badge/Journal-TPAMI-purple)](https://ieeexplore.ieee.org/document/11367271)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.10708-b31b1b?logo=arxiv)](https://arxiv.org/abs/2411.10708)
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
