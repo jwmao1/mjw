@@ -67,7 +67,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 <!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a> -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/UCSC-VLAA/story-iter)
-[![Stars](https://img.shields.io/github/stars/UCSC-VLAA/story-iter?style=social)](https://github.com/UCSC-VLAA/story-iter/stargazers)
+[![Stars](https://img.shields.io/github/stars/UCSC-VLAA/story-iter.svg?style=social&cacheSeconds=3600)](https://github.com/UCSC-VLAA/story-iter/stargazers)
 [![Website](https://img.shields.io/badge/Website-Demo-blue)](https://jwmao1.github.io/storyiter/)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.06244-b31b1b?logo=arxiv)](https://arxiv.org/abs/2410.06244)
 
