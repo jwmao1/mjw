@@ -129,6 +129,9 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 - Journal Reviewer:<br> 
 *IEEE TNNLS*
 
+- Conference Reviewer:<br> 
+*NeurIPS 2026*
+
 # 💻 Internships
 
 <div class='exp-box'> 
