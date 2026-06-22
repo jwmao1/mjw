@@ -44,10 +44,35 @@ redirect_from:
 I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
 
 # 🔥 News {#news}
+- *2026.06*: &nbsp;🎉🎉 [MeDiM](https://arxiv.org/abs/2510.06131) is accepted by ECCV 2026!
 - *2026.01*: &nbsp;🎉🎉 [AllRestorer](https://ieeexplore.ieee.org/document/11367271) is accepted by TPAMI 2026, and [Story-Iter](https://openreview.net/forum?id=puBVb9vTah) is accepted by ICLR 2026!
 - *2025.07*: &nbsp;🎉🎉 [MedSegFactory](https://openaccess.thecvf.com/content/ICCV2025/papers/Mao_MedSegFactory_Text-Guided_Generation_of_Medical_Image-Mask_Pairs_ICCV_2025_paper.pdf) is accepted by ICCV 2025! 
 
 # 📝 Publications {#publications}
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ECCV 2026</div>
+      <img src='images/poster2.png' alt="paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation**  
+**Jiawei Mao**, Yuhan Wang, Lifeng Chen, Can Zhao, Yucheng Tang, Dong Yang, Liangqiong Qu, Daguang Xu, Yuyin Zhou
+
+<!-- 图标按钮 -->
+<!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fab fa-github"></i> Code</a> -->
+<!-- <a href="https://jwmao1.github.io/MedSegFactory_web/" class="btn btn-sm"><i class="fas fa-globe"></i> Website</a> -->
+<!-- <a href="https://arxiv.org/abs/2504.06897" class="btn btn-sm"><i class="fas fa-book"></i> arXiv</a> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/UCSC-VLAA/MeDiM)
+[![Stars](https://img.shields.io/github/stars/UCSC-VLAA/MeDiM.svg?style=social&cacheSeconds=3600)](https://github.com/UCSC-VLAA/MeDiM/stargazers)
+[![Website](https://img.shields.io/badge/Website-Demo-blue)](https://jwmao1.github.io/MeDiM_web/)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.06131-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.06131)
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
