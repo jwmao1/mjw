@@ -161,6 +161,21 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
 
 <div class='exp-box'> 
   <div class='exp-box-image'>
+    <img src='images/image.svg' alt="adobe logo" width="100%">
+  </div>
+  <div class='exp-box-text' markdown="1">
+
+  [Adobe](https://www.adobe.com/), San Jose  
+
+  **Research Intern** @ [Yuqian Zhou](https://yzhouas.github.io/) 
+
+  *2026*
+
+  </div>
+</div>
+
+<div class='exp-box'> 
+  <div class='exp-box-image'>
     <img src='images/pku.png' alt="pku logo" width="100%">
   </div>
   <div class='exp-box-text' markdown="1">
