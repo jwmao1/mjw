@@ -41,7 +41,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 About Me {#about-me}
-I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
+I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) and [Prof. Cihang Xie](https://cihangxie.github.io/). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
 
 # 🔥 News {#news}
 - *2026.06*: &nbsp;🎉🎉 [MeDiM](https://arxiv.org/abs/2510.06131) is accepted by ECCV 2026, and excited to start a research internship at [Adobe Research](https://www.adobe.com/) this summer!
