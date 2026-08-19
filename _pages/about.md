@@ -165,7 +165,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
   </div>
   <div class='exp-box-text' markdown="1">
 
-  [Adobe](https://www.adobe.com/), San Jose  
+  [Adobe](https://www.adobe.com/), San Jose, USA  
 
   **Research Intern** @ [Yuqian Zhou](https://yzhouas.github.io/) 
 
@@ -180,7 +180,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
   </div>
   <div class='exp-box-text' markdown="1">
 
-  [Peking University](https://www.pku.edu.cn/), China  
+  [Peking University](https://www.pku.edu.cn/), Peking, China  
 
   **Research Assistant** @ [Hao Tang](https://ha0tang.github.io/)
 
@@ -196,7 +196,7 @@ I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC]
   </div>
   <div class='exp-box-text' markdown="1">
 
-  [UCSC](https://www.ucsc.edu/), USA  
+  [UCSC](https://www.ucsc.edu/), Santa Cruz, USA  
 
   **Research Intern** @ [VLAA](https://ucsc-vlaa.github.io/)
 
