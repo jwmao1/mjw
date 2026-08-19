@@ -44,7 +44,7 @@ redirect_from:
 I am a first-year PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://www.ucsc.edu/), supervised by [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). My primary research interests include computer vision and deep learning, mainly focusing on image and video generation.
 
 # 🔥 News {#news}
-- *2026.06*: &nbsp;🎉🎉 [MeDiM](https://arxiv.org/abs/2510.06131) is accepted by ECCV 2026!, and excited to start a research internship at [Adobe Research](https://www.adobe.com/) this summer!
+- *2026.06*: &nbsp;🎉🎉 [MeDiM](https://arxiv.org/abs/2510.06131) is accepted by ECCV 2026, and excited to start a research internship at [Adobe Research](https://www.adobe.com/) this summer!
 - *2026.01*: &nbsp;🎉🎉 [AllRestorer](https://ieeexplore.ieee.org/document/11367271) is accepted by TPAMI 2026, and [Story-Iter](https://openreview.net/forum?id=puBVb9vTah) is accepted by ICLR 2026!
 - *2025.07*: &nbsp;🎉🎉 [MedSegFactory](https://openaccess.thecvf.com/content/ICCV2025/papers/Mao_MedSegFactory_Text-Guided_Generation_of_Medical_Image-Mask_Pairs_ICCV_2025_paper.pdf) is accepted by ICCV 2025! 
 
