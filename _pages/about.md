@@ -45,7 +45,7 @@ I am a PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://ww
 
 # 🔥 News {#news}
 - *2026.06*: &nbsp;🎉🎉 [MeDiM](https://link.springer.com/chapter/10.1007/978-3-032-37550-6_30) is accepted by ECCV 2026, and excited to start a research internship at [Adobe Research](https://www.adobe.com/) this summer!
-- *2026.01*: &nbsp;🎉🎉 [AllRestorer](https://ieeexplore.ieee.org/document/11367271) is accepted by TPAMI 2026, and [Story-Iter](https://openreview.net/forum?id=puBVb9vTah) is accepted by ICLR 2026!
+- *2026.01*: &nbsp;🎉🎉 [AllRestorer](https://ieeexplore.ieee.org/document/11367271) is accepted by TPAMI 2026, and [Story-Iter](https://proceedings.iclr.cc/paper_files/paper/2026/file/b7a60995fb703e86cced2ca7c4e86fba-Paper-Conference.pdf) is accepted by ICLR 2026!
 - *2025.07*: &nbsp;🎉🎉 [MedSegFactory](https://openaccess.thecvf.com/content/ICCV2025/papers/Mao_MedSegFactory_Text-Guided_Generation_of_Medical_Image-Mask_Pairs_ICCV_2025_paper.pdf) is accepted by ICCV 2025! 
 
 # 📝 Publications {#publications}
