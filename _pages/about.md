@@ -155,7 +155,7 @@ I am a PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://ww
 *IEEE TNNLS*
 
 - Conference Reviewer:<br> 
-*NeurIPS 2026*
+*NeurIPS 2026, ICLR 2027*
 
 # 💻 Internships
 
