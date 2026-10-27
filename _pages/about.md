@@ -152,7 +152,7 @@ I am a PhD student at the [VLAA](https://ucsc-vlaa.github.io/)@[UCSC](https://ww
 
 # 💬 Academic Services
 - Journal Reviewer:<br> 
-*IEEE TNNLS*
+*IEEE TNNLS, IEEE TPAMI*
 
 - Conference Reviewer:<br> 
 *NeurIPS 2026, ICLR 2027*
